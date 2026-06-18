@@ -143,7 +143,7 @@ Dashboard sections:
 ## Dashboard Preview
 
 ![Dashboard Preview](images/overview.png)
-![Dashboard Preview](images/biomarker_explorer.png.png)
+![Dashboard Preview](images/biomarker_explorer.png)
 ![Dashboard Preview](images/model_performance.png)
 
 
